@@ -11,9 +11,6 @@ Welcome to the curated collection of research papers on Robotics and Artificial 
    - [Reinforcement Learning](#reinforcement-learning)
    - [Vision-Language Models](#vision-language-models)
    - [Robotics Applications](#robotics-applications)
-3. [How to Contribute](#how-to-contribute)
-4. [Acknowledgments](#acknowledgments)
-5. [License](#license)
 
 ---
 
@@ -25,7 +22,7 @@ This repository is designed to support researchers, students, and professionals 
 ## 🗂️ Categories
 
 ### 📌 3D Vision
-- **D3Fields: Modeling the 3D World from Images**  
+- **D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement**  
   _Description_: A novel method for learning 3D representations directly from 2D images using neural fields.  
   **[📄 Download Paper](https://robopil.github.io/d3fields/d3fields.pdf)**  
   **Keywords**: 3D Reconstruction, Neural Fields, Scene Understanding
@@ -40,13 +37,9 @@ This repository is designed to support researchers, students, and professionals 
 ### 📌 Reinforcement Learning
 - **Soft Actor-Critic (SAC): Deep Reinforcement Learning with Stability**  
   _Description_: An overview of SAC, focusing on entropy-regularized learning for sample-efficient policies.  
-  **[📄 Download Paper](#)**  
+  **[📄 Download Paper](https://arxiv.org/abs/1812.05905)**  
   **Keywords**: Reinforcement Learning, Soft Actor-Critic, Stability
 
-- **Imitation Learning Meets Reinforcement Learning**  
-  _Description_: Discusses hybrid approaches combining imitation learning and RL to improve performance in robotic tasks.  
-  **[📄 Download Paper](#)**  
-  **Keywords**: Imitation Learning, RL, Robotics
 
 ---
 
