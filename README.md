@@ -27,7 +27,7 @@ This repository is designed to support researchers, students, and professionals 
 ### 📌 3D Vision
 - **D3Fields: Modeling the 3D World from Images**  
   _Description_: A novel method for learning 3D representations directly from 2D images using neural fields.  
-  **[📄 Download Paper](#)**  
+  **[📄 Download Paper](https://robopil.github.io/d3fields/d3fields.pdf)**  
   **Keywords**: 3D Reconstruction, Neural Fields, Scene Understanding
 
 - **TSDF Representations for Volumetric Reconstruction**  
